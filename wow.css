@@ -1,0 +1,27 @@
+.center2{
+    justify-content: center;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.link{
+   justify-content: center;
+    display: flex;
+    padding-right:30px;
+    padding-left:30px;
+       
+    
+}
+
+.imagetext{
+      position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
